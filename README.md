@@ -5,3 +5,7 @@ The reactions are extracted in two notebooks: Reaxys_Data_Extraction.ipynb and D
 
 These reactions are then verified with Identify_RC_DA.ipynb. 
 
+RDKit Version: 2021.03.2
+Atom mapping can be done via RXNMapper: https://github.com/rxn4chemistry/rxnmapper (Access date: 10 December 2021)
+
+
